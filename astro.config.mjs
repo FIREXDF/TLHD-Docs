@@ -39,7 +39,7 @@ export default defineConfig({
         label: 'Changelog',
         items: [
           {
-            label: 'Version 1.0',
+            label: 'Version 0.1',
             slug: 'changelog/v1-0'
           },
         ]
