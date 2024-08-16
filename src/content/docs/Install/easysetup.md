@@ -23,7 +23,7 @@ You should get this, click on browse.
 
 Verify that you check `Don't create a Start Menu folder` this is not necessary.
 
-![4](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/easysetup/5.png)
+![4](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/easysetup/4.png)
 
 And you can click on install.
 

@@ -19,6 +19,6 @@ Now you will check `Use Custom Textures`
 
 ![3](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/configure/3.png)
 
-## And after this just launch your game and if you see this little HD text next to the Ver.2.0 that's say congratulations install the mod !
+## And after this just launch your game and if you see this little HD text next to the Ver.2.0 that's say congratulations you sucessfully install the mod !
 
 ![4](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/configure/4.png)
