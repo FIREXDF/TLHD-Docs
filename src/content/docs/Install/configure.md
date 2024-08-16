@@ -1,23 +1,23 @@
 ---
-title: Configure on citra
+title: Configuring Citra Emulator
 ---
 
-Now let's talk about this step that is realy important for this mod work.
+These are the last steps required for the Texture Pack to work properly.
 
 # Activate custom textures
 
-So let's first do right click into your Tomodachi Life rom, and click on `Properties`
+First, right-click your Tomodachi Life ROM, and click on `Properties`
 
 ![1](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/configure/1.png)
 
-After this a window will open, you will go into the `Enhancement` tab
+A new window will open, go in the `Enhancements` tab
 
 ![2](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/configure/2.png)
 
-Now you will check `Use Custom Textures`
+Check `Use Custom Textures`
 
 ![3](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/configure/3.png)
 
-## And after this just launch your game and if you see this little HD text next to the Ver.2.0 that's say congratulations you sucessfully install the mod !
+## Now launch your game and check your game Version, if you see a little HD text next the Game Version, that means you've sucessfully installed the Texture Pack !
 
 ![4](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/configure/4.png)
