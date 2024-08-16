@@ -21,4 +21,10 @@ You should get this, click on browse.
 
 ![Description de l'image](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/easysetup/3.png)
 
+Verify that you check `Don't create a Start Menu folder` this is not necessary.
 
+![Description de l'image](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/easysetup/5.png)
+
+And you can click on install.
+
+When it's finish just click on the button `Finish`

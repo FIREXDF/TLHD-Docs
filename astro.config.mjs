@@ -14,15 +14,13 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
+					
 					label: 'Install',
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Easy Setup', slug: 'install/easysetup' },
+						{ label: 'Configure on Citra', slug: 'install/configure' },
 					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
 				},
 			],
 		}),
