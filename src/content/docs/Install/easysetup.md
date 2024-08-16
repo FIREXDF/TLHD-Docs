@@ -2,28 +2,31 @@
 title: Easy Setup
 ---
 
-Here i will show you for install easily with a little program for setup the mod for you !
+Here is a litte guide on how to install the Texture Pack (for you, accustomed users, no it isn't the traditional method).
 
-## Downloading the app
+## Setting Up the Texture Pack
 
-Install the app on this [link.](https://github.com/Golden-Saiyans/TLHD-Easy-Setup/releases/download/0.X/TLHD-Easy-Setup-0.1.exe) **(This setup has been made with Inno Setup there are no malware and i can't verify the file on virus total because it's too big.)**
+Install our Easy Setup executable [here](https://github.com/Golden-Saiyans/TLHD-Easy-Setup/releases/download/0.X/TLHD-Easy-Setup-0.1.exe) **(This setup has been made with Inno Setup there are no malwares and the file cannot be verified on Virus Total because it's too large.)**.
 
-After this you should get this, open it.
+After downloading it, you should get this file, open it.
 
 ![1](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/easysetup/1.png)
 
-You should get this, click on browse.
+This window should open, click on `Browse...`.
 
 ![2](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/easysetup/2.png)
 
-**Now this is realy important** you will need to put the directory into there `C:\Users\{USERNAME}\AppData\Roaming\Citra\load\textures\000400000008C400\Tomodachi Life HD\`
+**THIS STEP IS VERY IMPORTANT** You will need to set the directory to this `C:\Users\{USERNAME}\AppData\Roaming\Citra\load\textures\{GAMEID}\Tomodachi Life HD\`
+Depending on your Game Region, the GAMEID will change:
+NTSC: `000400000008C300`
+PAL: `000400000008C400`
 
 ![3](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/easysetup/3.png)
 
-Verify that you check `Don't create a Start Menu folder` this is not necessary.
+Verify that you uncheck `Create a Start Menu folder` this is unnecessary.
 
 ![4](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/easysetup/4.png)
 
-And you can click on install.
+Now, click on `Install`.
 
-When it's finish just click on the button `Finish`
+When the installation is done, just click on `Finish`.
