@@ -18,7 +18,6 @@ This window should open, click on `Browse...`.
 
 **THIS STEP IS VERY IMPORTANT** You will need to set the directory to this `C:\Users\{USERNAME}\AppData\Roaming\Citra\load\textures\{GAMEID}\Tomodachi Life HD\`
 Depending on your Game Region, the GAMEID will change:
-
 NTSC: `000400000008C300`
 PAL: `000400000008C400`
 
