@@ -18,6 +18,6 @@ Check `Use Custom Textures`
 
 ![3](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/configure/3.png)
 
-## Now launch your game and check your game Version, if you see a little HD text next the Game Version, that means you've sucessfully installed the Texture Pack !
+## Now launch your game and check your game Version, if you see a little HD text near the Game Version, that means you've sucessfully installed the Texture Pack !
 
 ![4](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/configure/4.png)
