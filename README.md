@@ -8,7 +8,7 @@
 
 <div style="text-align: center;">
   
-### The people who make Tomodachi Life HD possible.
+### The people who made Tomodachi Life HD possible.
 
 
 
