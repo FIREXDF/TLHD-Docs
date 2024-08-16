@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 197 55" width="197" height="55">
+	<title>Nouveau projet</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(294.88,0,0,79.04,25.22,-26)">
+			<stop offset="0" stop-color="#ff3333"/>
+			<stop offset=".2" stop-color="#f8981d"/>
+			<stop offset=".4" stop-color="#f6eb16"/>
+			<stop offset=".6" stop-color="#159b4a"/>
+			<stop offset=".8" stop-color="#3a53a5"/>
+			<stop offset="1" stop-color="#c52991"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 123px;fill:  url(#g1);font-weight: 400;font-family: "TomodachiFont", "Tomodachi Font" } 
+	</style>
+	<text id="TLHD" style="transform: matrix(.496,0,0,.496,2,53);paint-order:stroke fill markers;stroke: #ffffff;stroke-width: 4;stroke-linejoin: round;" >
+		<tspan x="0" y="0" class="t0">T</tspan><tspan  y="0" class="t0">L</tspan><tspan  y="0" class="t0">H</tspan><tspan  y="0" class="t0">D
+</tspan>
+	</text>
+</svg>

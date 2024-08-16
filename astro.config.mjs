@@ -4,8 +4,11 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	integrations: [
-		starlight({
-			title: 'Tomodachi Life HD',
+	  starlight({
+		title: ' ',
+		logo: {
+		  src: './src/assets/tlhd.svg',
+		},
 			social: {
 				github: 'https://github.com/FIREXDF/TLHD-Docs',
 			},
@@ -14,7 +17,7 @@ export default defineConfig({
 					label: 'Install',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Easy Setup', slug: 'install/example' },
+						{ label: 'Easy Setup', slug: 'install/easysetup' },
 					],
 				},
 				{
