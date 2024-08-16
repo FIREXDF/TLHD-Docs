@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Police Personnalisee';
+    /* Utilisez le chemin relatif vers le fichier de police dans la fonction `url()`. */
+    src: url('./tomodachi_font_by_pokemon_diamond-d82qlqz.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }

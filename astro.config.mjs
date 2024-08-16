@@ -6,6 +6,10 @@ export default defineConfig({
 	integrations: [
 	  starlight({
 		title: ' ',
+		customCss: [
+			// Chemin relatif vers votre fichier CSS @font-face.
+			'/src/font/font-face.css',
+		  ],
 		logo: {
 		  src: './src/assets/tlhd.svg',
 		},
