@@ -3,9 +3,8 @@ title: Easy Setup
 description: A guide in my new Starlight docs site.
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+Here i will show you for install easily with a little program for setup the mod for you !
 
-## Further reading
+## Downloading the app
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+- Install the app on this [link](https://github.com/Golden-Saiyans/TLHD-Easy-Setup/releases/download/0.X/TLHD-Easy-Setup-0.1.exe)

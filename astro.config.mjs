@@ -5,16 +5,16 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Tomodachi Life HD',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/FIREXDF/TLHD-Docs',
 			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Install',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Easy Setup', slug: 'install/example' },
 					],
 				},
 				{
