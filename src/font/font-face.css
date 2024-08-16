@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Tomodachi Font';
     /* Utilisez le chemin relatif vers le fichier de police dans la fonction `url()`. */
-    src: url('./tomodachi_font_by_pokemon_diamond-d82qlqz.ttf') format('ttf');
+    src: url('./tomodachi_font_by_pokemon_diamond-d82qlqz.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
