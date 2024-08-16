@@ -5,7 +5,7 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   integrations: [starlight({
-    title: 'Tomodachi Life HD Docs',
+    title: ' ',
     logo: {
       src: './src/assets/logo.png'
     },
