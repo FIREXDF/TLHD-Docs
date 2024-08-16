@@ -1,33 +1,49 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-
+import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-	integrations: [
-	  starlight({
-		title: ' ',
-		customCss: [
-			// Chemin relatif vers votre fichier CSS @font-face.
-			'/src/font/font-face.css',
-		  ],
-		logo: {
-		  src: './src/assets/logo.png',
-		},
-			social: {
-				github: 'https://github.com/FIREXDF/TLHD-Docs',
-			},
-			sidebar: [
-				{
-					
-					label: 'Install',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Easy Setup', slug: 'install/easysetup' },
-						{ label: 'Configure on Citra', slug: 'install/configure' },
-					],
-				},
-			],
-		}),
-	],
+  integrations: [starlight({
+    title: 'Tomodachi Life HD Docs',
+    logo: {
+      src: './src/assets/logo.png'
+    },
+    social: {
+      github: 'https://github.com/FIREXDF/TLHD-Docs'
+    },
+    sidebar: [
+      {
+        label: 'Install',
+        items: [
+          {
+            label: 'Easy Setup',
+            slug: 'install/easysetup'
+          },
+          {
+            label: 'Configure on Citra',
+            slug: 'install/configure'
+          }
+        ]
+      },
+      {
+        label: 'Uninstall',  // Nouvelle section "Uninstall"
+        items: [
+          {
+            label: 'Uninstall Tomodachi Life HD',
+            slug: 'uninstall/remove'
+          }
+        ]
+      },
+      {
+        label: 'Changelog',
+        items: [
+          {
+            label: 'Version 1.0',
+            slug: 'changelog/v1-0'
+          },
+        ]
+      }
+    ]
+  }), tailwind()]
 });
