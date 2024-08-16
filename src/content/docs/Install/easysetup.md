@@ -11,12 +11,14 @@ Install the app on this [link.](https://github.com/Golden-Saiyans/TLHD-Easy-Setu
 
 After this you should get this, open it.
 
-![Description de l'image](/src/assets/easysetup/1.png)
+![Description de l'image](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/easysetup/1.png)
 
 You should get this, click on browse.
 
-![Description de l'image](/src/assets/easysetup/2.png)
+![Description de l'image](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/easysetup/2.png)
 
 **Now this is realy important** you will need to put the directory into there `C:\Users\{USERNAME}\AppData\Roaming\Citra\load\textures\000400000008C400\Tomodachi Life HD\`
 
-![Description de l'image](/src/assets/easysetup/3.png)
+![Description de l'image](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/easysetup/3.png)
+
+
