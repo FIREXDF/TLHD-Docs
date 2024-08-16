@@ -12,7 +12,7 @@ export default defineConfig({
 			'/src/font/font-face.css',
 		  ],
 		logo: {
-		  src: './src/assets/tlhd.svg',
+		  src: './src/assets/logo.png',
 		},
 			social: {
 				github: 'https://github.com/FIREXDF/TLHD-Docs',
