@@ -1,6 +1,5 @@
 ---
 title: Easy Setup
-description: A guide in my new Starlight docs site.
 ---
 
 Here i will show you for install easily with a little program for setup the mod for you !

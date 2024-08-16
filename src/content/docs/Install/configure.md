@@ -1,6 +1,5 @@
 ---
 title: Configure on citra
-description: A guide in my new Starlight docs site.
 ---
 
 Now let's talk about this step that is realy important for this mod work.
