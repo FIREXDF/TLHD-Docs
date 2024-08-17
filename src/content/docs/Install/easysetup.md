@@ -6,7 +6,7 @@ Here is a litte guide on how to install the Texture Pack (for you, accustomed us
 
 ## Setting Up the Texture Pack
 
-Install our Easy Setup executable [here](https://github.com/Golden-Saiyans/TLHD-Easy-Setup) **(This setup has been made with Inno Setup there are no malwares and the file cannot be verified on Virus Total because it's too large.)**.
+Install our Easy Setup executable [here](https://github.com/Golden-Saiyans/TLHD-Easy-Setup/releases/) **(This setup has been made with Inno Setup there are no malwares and the file cannot be verified on Virus Total because it's too large.)**.
 
 After downloading it, you should get this file, open it.
 
