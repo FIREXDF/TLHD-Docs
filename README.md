@@ -2,7 +2,7 @@
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
-## Want to self-hostt?
+## Want to self-host?
 Simply clone this repository and open a terminal in the folder:
 
 ```sh
