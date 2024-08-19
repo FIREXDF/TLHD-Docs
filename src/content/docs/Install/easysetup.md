@@ -6,9 +6,6 @@ Here is a litte guide on how to install the Texture Pack (for you, accustomed us
 
 ## Setting Up the Texture Pack
 
-<<<<<<< HEAD
-Install our Easy Setup executable [here](https://github.com/Golden-Saiyans/TLHD-Easy-Setup/releases/) **(This setup has been made with Inno Setup there are no malwares and the file cannot be verified on Virus Total because it's too large.)**.
-=======
 Install our Easy Setup executable [here](https://github.com/FIREXDF/TLHD-Docs/releases/) **(This setup has been made with Inno Setup there are no malwares.)** [VirusTotal 3/75 Detections](https://www.virustotal.com/gui/file-analysis/MzNhYzY0MzlhMTc0YjBkY2QyODk4Yjk1ODhiYmNkZjI6MTcyNDA5MjgxNQ==)
 >>>>>>> b19c313 (	modified:   src/content/docs/Install/easysetup.md)
 
