@@ -10,11 +10,11 @@ Install our Easy Setup executable [here](https://github.com/FIREXDF/TLHD-Docs/re
 
 After downloading it, you should get this file, open it.
 
-![1](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/easysetup/1.png)
+![1](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/public/img/easysetup/1.png)
 
 This window should open, click on `Browse...`.
 
-![2](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/easysetup/2.png)
+![2](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/public/img/easysetup/2.png)
 
 **THIS STEP IS VERY IMPORTANT** You will need to set the directory to this `C:\Users\{USERNAME}\AppData\Roaming\Citra\load\textures\{GAMEID}\Tomodachi Life HD\`
 Depending on your Game Region, the GAMEID will change:
@@ -23,11 +23,11 @@ NTSC: `000400000008C300`
 
 PAL: `000400000008C400`
 
-![3](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/easysetup/3.png)
+![3](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/public/img/easysetup/3.png)
 
 Verify that you uncheck `Create a Start Menu folder` this is unnecessary.
 
-![4](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/src/assets/easysetup/4.png)
+![4](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/public/img/easysetup/4.png)
 
 Now, click on `Install`.
 
