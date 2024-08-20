@@ -18,7 +18,7 @@ With curl just copy this command `curl -LO https://github.com/FIREXDF/TLHD/archi
 
 ## With git
 
-With git just copy this command ``git clone https://github.com/FIREXDF/TLHD`
+With git just copy this command `git clone https://github.com/FIREXDF/TLHD`
 
 ![3](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/public/img/manual/3.png)
 
