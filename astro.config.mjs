@@ -7,7 +7,7 @@ export default defineConfig({
   integrations: [starlight({
     title: ' ',
     logo: {
-      src: './src/assets/logo.png'
+      src: './public/img/index/logo.png'
     },
     social: {
       github: 'https://github.com/FIREXDF/TLHD-Docs'
@@ -21,9 +21,13 @@ export default defineConfig({
             slug: 'install/easysetup'
           },
           {
+            label: 'Manual Setup',
+            slug: 'install/manual'
+          },
+          {
             label: 'Configure on Citra',
             slug: 'install/configure'
-          }
+          },
         ]
       },
       {
@@ -43,7 +47,16 @@ export default defineConfig({
             slug: 'changelog/v0-1'
           },
         ]
-      }
+      },
+      {
+        label: 'Credits',  // Nouvelle section "Uninstall"
+        items: [
+          {
+            label: 'Credits',
+            slug: 'credits/credits'
+          }
+        ]
+      },
     ]
   }), tailwind()]
 });
