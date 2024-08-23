@@ -25,3 +25,7 @@ npm run dev
 
 
 </div>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=FIREXDF/TLHD-Docs&type=Date)](https://star-history.com/#FIREXDF/TLHD-Docs&Date)
