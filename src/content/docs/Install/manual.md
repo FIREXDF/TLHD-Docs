@@ -8,7 +8,7 @@ title: Manual Setup
 
 Download the mod on those link under and click on the "Code" green button, and click on "Download ZIP"
 
-NTSC (EN) : [https://github.com/FIREXDF/TLHD](https://github.com/FIREXDF/TLHD)
+NTSC (EN) : [https://github.com/FIREXDF/TLHD](https://github.com/FIREXDF/TLHD) \n
 PAL (FR) : [https://github.com/FIREXDF/TLHD-NTSC](https://github.com/FIREXDF/TLHD-NTSC)
 
 ![1](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/public/img/manual/1.png)
