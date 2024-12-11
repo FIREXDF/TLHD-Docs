@@ -6,19 +6,26 @@ title: Manual Setup
 
 ## On Github website
 
-Download the mod on this [link](https://github.com/FIREXDF/TLHD) and click on the "Code" green button, and click on "Download ZIP"
+Download the mod on those link under and click on the "Code" green button, and click on "Download ZIP"
+
+NTSC (EN) : [https://github.com/FIREXDF/TLHD](https://github.com/FIREXDF/TLHD)
+PAL (FR) : [https://github.com/FIREXDF/TLHD-NTSC](https://github.com/FIREXDF/TLHD-NTSC)
 
 ![1](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/public/img/manual/1.png)
 
 ## With curl
 
-With curl just copy this command `curl -LO https://github.com/FIREXDF/TLHD/archive/refs/heads/main.zip`
+With curl just copy this command
+NTSC (EN) : `curl -LO https://github.com/FIREXDF/TLHD-NTSC/archive/refs/heads/main.zip`
+PAL (FR) : `curl -LO https://github.com/FIREXDF/TLHD/archive/refs/heads/main.zip`
 
 ![2](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/public/img/manual/2.png)
 
 ## With git
 
-With git just copy this command `git clone https://github.com/FIREXDF/TLHD`
+With git just copy this command : 
+NTSC (EN) : `git clone https://github.com/FIREXDF/TLHD-NTSC`
+PAL (FR) : `git clone https://github.com/FIREXDF/TLHD`
 
 ![3](https://raw.githubusercontent.com/FIREXDF/TLHD-Docs/main/public/img/manual/3.png)
 
